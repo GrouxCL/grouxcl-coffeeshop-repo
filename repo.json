@@ -6,8 +6,8 @@
   "version": "1",
   "games": [
     {
-      "id": "mario-kart-8",
-      "path": "games/mario-kart-8/game.json"
+      "id": "splatoon",
+      "path": "games/splatoon/game.json"
     }
   ]
 }
