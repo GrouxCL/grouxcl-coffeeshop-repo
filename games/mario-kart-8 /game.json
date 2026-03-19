@@ -47,6 +47,24 @@
       "license": "CC BY-NC",
       "tags": ["skin"],
       "fileSize": 1939723
+    },
+    {
+      "id": "shrekkart8",
+      "name": "Shrek joins Mario Kart!",
+      "type": "mod",
+      "version": "1.0.0",
+      "author": "kalomaze",
+      "description": "Ogres have layers. Wasn't too happy how the rig came out on this one due to poly count, might redo down the line.",
+      "thumbnail": "https://images.gamebanana.com/img/ss/mods/5ad38d62a176e.jpg",
+      "screenshots": [
+        "https://images.gamebanana.com/img/ss/mods/5ad38d7ddaf63.jpg",
+        "https://images.gamebanana.com/img/ss/mods/5ad38dd4ade4c.jpg"
+      ],
+      "download": "https://github.com/ItsFuntum/funtum-coffeeshop-repo/releases/download/shrekkart8/shrekkart8.zip",
+      "releaseDate": "2018-04-15",
+      "license": "CC BY-NC",
+      "tags": ["skin"],
+      "fileSize": 1199959
     }
   ]
 }
