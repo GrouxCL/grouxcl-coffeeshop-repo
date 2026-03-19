@@ -2,6 +2,9 @@
 
 CoffeeShop repository for mods that Funtum likes and for others to enjoy!
 
+> [!NOTE]
+> No modifications have been made to the mod code. However, the file structure may have been changed to work with SDCafiine. All rights go to the mod creators.
+
 | Game | Name | Author | GameBanana page |
 | --- | --- | --- | --- |
 | Mario Kart 8 | Squidward joins Mario Kart! | kalomaze | [![](https://gamebanana.com/mods/embeddables/172308?type=large)](https://gamebanana.com/mods/172308) |
