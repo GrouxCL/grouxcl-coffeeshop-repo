@@ -28,6 +28,24 @@
       "license": "CC BY-NC",
       "tags": ["music", "course", "texture", "model"],
       "fileSize": 923345731
+    },
+    {
+      "id": "nsmbufloorlava",
+      "name": "NSMBU but the floor is lava",
+      "type": "mod",
+      "version": "2.0.0",
+      "author": "BowManakin",
+      "description": "Every Level from Acorn Plains to Superstar Road but the floor is lava!",
+      "thumbnail": "https://images.gamebanana.com/img/ss/mods/699a2e65150bf.jpg",
+      "screenshots": [
+        "https://images.gamebanana.com/img/ss/mods/699a2e65150bf.jpg",
+        "https://images.gamebanana.com/img/ss/mods/61edbd391dbf2.jpg"
+      ],
+      "download": "https://github.com/ItsFuntum/funtum-coffeeshop-repo/releases/download/nsmbufloorlava/NSMBU.but.the.floor.is.lava.zip",
+      "releaseDate": "2026-02-21",
+      "license": "CC BY-NC",
+      "tags": ["course"],
+      "fileSize": 912481051
     }
   ]
 }
