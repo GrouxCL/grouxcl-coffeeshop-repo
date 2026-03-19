@@ -65,6 +65,24 @@
       "license": "CC BY-NC",
       "tags": ["skin"],
       "fileSize": 1199959
+    },
+    {
+      "id": "doofupdated",
+      "name": "Dr. Doofenshmirtz",
+      "type": "mod",
+      "version": "1.0.0",
+      "author": "RedYoshiKart",
+      "description": "A Mario Kart 8 Mod? PERRY THE MARIO KART 8 MOD? Over Iggy,",
+      "thumbnail": "https://images.gamebanana.com/img/ss/mods/64289e4a3c70d.jpg",
+      "screenshots": [
+        "https://images.gamebanana.com/img/ss/mods/64289e4a3c70d.jpg",
+        "https://images.gamebanana.com/img/ss/mods/64289e6124e5c.jpg"
+      ],
+      "download": "https://github.com/ItsFuntum/funtum-coffeeshop-repo/releases/download/doofupdated/doofupdated.zip",
+      "releaseDate": "2023-04-01",
+      "license": "CC BY-NC",
+      "tags": ["skin"],
+      "fileSize": 1109799
     }
   ]
 }
