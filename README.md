@@ -14,4 +14,5 @@ CoffeeShop repository for mods that Funtum likes and for others to enjoy!
 | Mario Kart 8 | Crewmate+ | St!nktofu | [![](https://gamebanana.com/mods/embeddables/401743?type=large)](https://gamebanana.com/mods/401743) |
 | New Super Mario Bros. U | Cloudy Super Mario Bros. U 2 | Rimea | [![](https://gamebanana.com/mods/embeddables/378732?type=large)](https://gamebanana.com/mods/378732) |
 | New Super Mario Bros. U | NSMBU but the floor is lava | BowManakin | [![](https://gamebanana.com/mods/embeddables/352599?type=large)](https://gamebanana.com/mods/352599) |
+| Splatoon | Splatoon+ v1.3.2 | Delus1on_L | [![](https://gamebanana.com/mods/embeddables/570597?type=large)](https://gamebanana.com/mods/570597) |
 | Splatoon | Splatoon: Squidward Expansion v2 | kalomaze | [![](https://gamebanana.com/mods/embeddables/250471?type=large)](https://gamebanana.com/mods/250471) |
