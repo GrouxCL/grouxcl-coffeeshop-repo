@@ -1,6 +1,6 @@
 # GrouxCL's CoffeeShop Repository
 
-CoffeeShop repository based on the Funtum's repo with additional mods that I like.  
+CoffeeShop repository based on the one from Funtum with additional mods that I like.  
 All the credit goes to him for his work on this very complete repo which makes it a good basis.  
 > [!NOTE]
 > No modifications have been made to the mod code. However, the file structure may have been changed to work with SDCafiine. All rights go to the mod creators.
