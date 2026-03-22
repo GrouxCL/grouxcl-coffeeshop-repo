@@ -1,8 +1,8 @@
 {
   "formatVersion": 1,
-  "name": "Funtum's CoffeeShop Repo",
-  "description": "CoffeeShop repository for mods that Funtum likes and for others to enjoy!",
-  "author": "Funtum",
+  "name": "GrouxCL's CoffeeShop Repo",
+  "description": "Funtum's CoffeeShop repository with its selection of mods and others that I like",
+  "author": "GrouxCL",
   "version": "1",
   "games": [
     {
@@ -16,6 +16,10 @@
     {
       "id": "nsmbu",
       "path": "games/nsmbu/game.json"
+    },
+    {
+      "id": "mario-3d-world",
+      "path": "games/mario-3d-world/game.json"
     }
   ]
 }
