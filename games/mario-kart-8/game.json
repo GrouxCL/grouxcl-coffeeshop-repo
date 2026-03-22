@@ -23,7 +23,11 @@
         "https://images.gamebanana.com/img/ss/wips/100-90_662081526c9f9.jpg",
         "https://images.gamebanana.com/img/ss/wips/100-90_661c201f6a3be.jpg"
       ],
-      "download": "https://github.com/GrouxCL/grouxcl-coffeeshop-repo/releases/download/mkgenerations/MarioKartGenerations.zip",
+      "download": [
+        "https://github.com/GrouxCL/grouxcl-coffeeshop-repo/releases/download/mkgenerations/MarioKartGenerations.zip",
+        "https://github.com/GrouxCL/grouxcl-coffeeshop-repo/releases/download/mkgenerations/mapobj.zip",
+        "https://github.com/GrouxCL/grouxcl-coffeeshop-repo/releases/download/mkgenerations/course.zip"
+      ],
       "releaseDate": "2024-04-18",
       "license": "CC BY-NC",
       "tags": ["ui", "skin", "music", "course"],
